@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: agc100's homepage
 description: Bookmark this to keep an eye on my project updates!
+baseurl: /agc100.github.io
