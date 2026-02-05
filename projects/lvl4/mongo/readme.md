@@ -73,3 +73,5 @@ mongoexport --db biblioteca --collection libros --query '{"genero":"Fantasia"}' 
 
 El archivo generado (libros_fantasia.json) contiene únicamente los documentos que cumplen la condición indicada y constituye el entregable final del reto.
 Filtra los libros cuyo año de publicación es anterior a 1950.
+
+Acceso: [libros_fixed]projects/lvl4/mongo/libros.json
