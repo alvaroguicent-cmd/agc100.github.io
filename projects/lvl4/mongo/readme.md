@@ -25,7 +25,7 @@ Se importa el archivo `libros.json` en una base de datos llamada `biblioteca` y 
 
 mongoimport --db biblioteca --collection libros --file libros.json --jsonArray
 
-##Consultas realizadas
+## 2 Consultas realizadas
 
 Una vez importados los datos, se accede a la shell de MongoDB (mongosh) y se selecciona la base de datos:
 
@@ -58,7 +58,7 @@ db.libros.aggregate([
 
 Agrupa los libros por género y cuenta cuántos pertenecen a cada uno.
 
-3 Exportación de datos
+## 3 Exportación de datos
 
 Como paso final, se exportan a un nuevo archivo JSON todos los libros de género Fantasía utilizando mongoexport con una consulta (--query):
 
