@@ -1,0 +1,122 @@
+[
+  {
+    "titulo": "Cien años de soledad",
+    "autores": ["Gabriel García Márquez"],
+    "anioPublicacion": 1967,
+    "genero": "Realismo mágico"
+  },
+  {
+    "titulo": "El Hobbit",
+    "autores": ["J.R.R. Tolkien"],
+    "anioPublicacion": 1937,
+    "genero": "Fantasía"
+  },
+  {
+    "titulo": "La sombra del viento",
+    "autores": ["Carlos Ruiz Zafón"],
+    "anioPublicacion": 2001,
+    "genero": "Novela"
+  },
+  {
+    "titulo": "1984",
+    "autores": ["George Orwell"],
+    "anioPublicacion": 1949,
+    "genero": "Ciencia ficción"
+  },
+  {
+    "titulo": "Harry Potter y la piedra filosofal",
+    "autores": ["J.K. Rowling"],
+    "anioPublicacion": 1997,
+    "genero": "Fantasía"
+  },
+  {
+    "titulo": "El señor de los anillos",
+    "autores": ["J.R.R. Tolkien"],
+    "anioPublicacion": 1954,
+    "genero": "Fantasía"
+  },
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "autores": ["Miguel de Cervantes"],
+    "anioPublicacion": 1605,
+    "genero": "Novela"
+  },
+  {
+    "titulo": "Orgullo y prejuicio",
+    "autores": ["Jane Austen"],
+    "anioPublicacion": 1813,
+    "genero": "Romance"
+  },
+  {
+    "titulo": "El código Da Vinci",
+    "autores": ["Dan Brown"],
+    "anioPublicacion": 2003,
+    "genero": "Thriller"
+  },
+  {
+    "titulo": "El alquimista",
+    "autores": ["Paulo Coelho"],
+    "anioPublicacion": 1988,
+    "genero": "Ficción"
+  },
+  {
+    "titulo": "La Divina Comedia",
+    "autores": ["Dante Alighieri"],
+    "anioPublicacion": 1320,
+    "genero": "Épica"
+  },
+  {
+    "titulo": "Moby Dick",
+    "autores": ["Herman Melville"],
+    "anioPublicacion": 1851,
+    "genero": "Aventura"
+  },
+  {
+    "titulo": "Hamlet",
+    "autores": ["William Shakespeare"],
+    "anioPublicacion": 1603,
+    "genero": "Tragedia"
+  },
+  {
+    "titulo": "El gran Gatsby",
+    "autores": ["F. Scott Fitzgerald"],
+    "anioPublicacion": 1925,
+    "genero": "Novela"
+  },
+  {
+    "titulo": "Crimen y castigo",
+    "autores": ["Fiódor Dostoievski"],
+    "anioPublicacion": 1866,
+    "genero": "Psicológica"
+  },
+  {
+    "titulo": "En busca del tiempo perdido",
+    "autores": ["Marcel Proust"],
+    "anioPublicacion": 1913,
+    "genero": "Modernista"
+  },
+  {
+    "titulo": "Ulises",
+    "autores": ["James Joyce"],
+    "anioPublicacion": 1922,
+    "genero": "Modernista"
+  },
+  {
+    "titulo": "La guerra de los mundos",
+    "autores": ["H.G. Wells"],
+    "anioPublicacion": 1898,
+    "genero": "Ciencia ficción"
+  },
+  {
+    "titulo": "Frankenstein",
+    "autores": ["Mary Shelley"],
+    "anioPublicacion": 1818,
+    "genero": "Terror"
+  },
+  {
+    "titulo": "Drácula",
+    "autores": ["Bram Stoker"],
+    "anioPublicacion": 1897,
+    "genero": "Terror"
+  }
+]
