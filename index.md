@@ -16,3 +16,4 @@ title: agc100's homepage
 - [Reto 01 – MongoDB- Funciones intermedias]({{ site.baseurl }}/projects/lvl4/mongo/readme)
 - [Reto 02 – Modelado de datos en un SGBD NoSQL]({{ site.baseurl }}/projects/lvl4/tiendanosql/reto06)
 - [Reto 03 – Optimización de consultas y rendimiento en bases de datos]({{ site.baseurl }}/projects/lvl4/optimizacion/consultarendimiento)
+- [Reto 04 – Seguridad en sistemas gestores de bases de datos]({{ site.baseurl }}/projects/lvl4/optimizacion/seguridad)
