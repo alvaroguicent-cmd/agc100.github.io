@@ -15,3 +15,4 @@ title: agc100's homepage
 ## Retos del curso de BDD de Fundae. Nivel 4 de Sistemas gestores de bases de datos
 - [Reto 01 – MongoDB- Funciones intermedias]({{ site.baseurl }}projects/lvl4/mongo/readme.md)
 - [Reto 02 – Modelado de datos en un SGBD NoSQL]({{ site.baseurl }}projects/lvl4/tiendanosql/reto06.md)
+- [Reto 02 – Optimización de consultas y rendimiento en bases de datos]({{ site.baseurl }}projects/lvl4//optimizacion/consultarendimiento.md)
