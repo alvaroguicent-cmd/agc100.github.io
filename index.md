@@ -17,3 +17,4 @@ title: agc100's homepage
 - [Reto 02 – Modelado de datos en un SGBD NoSQL]({{ site.baseurl }}/projects/lvl4/tiendanosql/reto06)
 - [Reto 03 – Optimización de consultas y rendimiento en bases de datos]({{ site.baseurl }}/projects/lvl4/optimizacion/consultarendimiento)
 - [Reto 04 – Seguridad en sistemas gestores de bases de datos]({{ site.baseurl }}/projects/lvl4/optimizacion/seguridad)
+- [Reto 05 – Integración de SGBD con aplicaciones web y servicios en la nube]({{ site.baseurl }}/projects/lvl4/conexionsgb/conn)
