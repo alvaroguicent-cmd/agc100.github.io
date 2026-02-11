@@ -18,3 +18,6 @@ title: agc100's homepage
 - [Reto 03 – Optimización de consultas y rendimiento en bases de datos]({{ site.baseurl }}/projects/lvl4/optimizacion/consultarendimiento)
 - [Reto 04 – Seguridad en sistemas gestores de bases de datos]({{ site.baseurl }}/projects/lvl4/optimizacion/seguridad)
 - [Reto 05 – Integración de SGBD con aplicaciones web y servicios en la nube]({{ site.baseurl }}/projects/lvl4/conexionsgb/conn)
+
+## Retos del curso de BDD de Fundae. Nivel 5 de Sistemas gestores de bases de datos
+- [Reto 01 – Diseño de una base de datos para alta disponibilidad]({{ site.baseurl }}/projects/lvl5/reto01)
